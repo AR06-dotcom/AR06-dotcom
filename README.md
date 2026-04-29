@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 # Hi there, I'm Aryan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://git.io/typing-svg">
@@ -29,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer cu
 
 ---
 
-### 📈 Activity & Advanced Metrics (Animated)
+### 📈 Activity & Advanced Metrics
 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AR06-dotcom&theme=dark" alt="Profile Summary Card" width="48%" />

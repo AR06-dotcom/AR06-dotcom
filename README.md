@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer cu
 
 - **Email:** [rahatearyan06@gmail.com](mailto:rahatearyan06@gmail.com)
 - **LinkedIn:** [Aryan Rahate](https://www.linkedin.com/in/aryan-rahate-2857023b1/)
-
+- **Instagram:**@aryanrahate06
 ⚡ **Fun Fact:** When I'm taking a break from coding, I'm usually hitting the badminton court, grinding ranks in Valorant, or experimenting with new recipes in the kitchen.
 
 ---

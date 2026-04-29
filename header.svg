@@ -1,27 +1,48 @@
 <svg width="850" height="210" xmlns="http://www.w3.org/2000/svg">
   <style>
-    /* Text Animations */
-    .name { font: bold 60px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: white; animation: fadeUp 1s ease-out forwards; opacity: 0; }
-    .sub { font: bold 20px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: white; animation: fadeUp 1s ease-out 0.3s forwards; opacity: 0; }
+    .bg { fill: #07090F; }
     
-    /* Background Blob Animation */
-    .blob { animation: float 8s ease-in-out infinite; transform-origin: 425px 105px; }
-    
-    /* Keyframes */
-    @keyframes fadeUp {
-      0% { opacity: 0; transform: translateY(15px); }
-      100% { opacity: 1; transform: translateY(0); }
+    /* Data Line Styles */
+    .trace { fill: none; stroke: #1A2639; stroke-width: 2; }
+    .data-pulse { 
+      fill: none; 
+      stroke: #00E5FF; 
+      stroke-width: 2.5; 
+      stroke-dasharray: 15 150; /* Creates the little dashes of data */
+      animation: flowData 3s linear infinite; 
     }
-    @keyframes float {
-      0%, 100% { transform: translateY(0) scale(1) rotate(0deg); }
-      50% { transform: translateY(-10px) scale(1.05) rotate(3deg); }
+    
+    /* Animation delays to stagger the data pulses */
+    .d1 { animation-duration: 4s; }
+    .d2 { animation-duration: 3s; animation-delay: 1s; stroke: #FF0055; }
+    .d3 { animation-duration: 3.5s; animation-delay: 0.5s; }
+    .d4 { animation-duration: 4.5s; animation-delay: 1.5s; stroke: #00FF66; }
+
+    /* Text Styles */
+    .name { font: bold 65px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #FFFFFF; letter-spacing: 2px; }
+    .sub { font: 600 20px 'Courier New', Courier, monospace; fill: #8B949E; }
+    .glow { font: bold 65px -apple-system, sans-serif; fill: #00E5FF; filter: blur(8px); opacity: 0.5; letter-spacing: 2px; }
+
+    @keyframes flowData {
+      to { stroke-dashoffset: -330; } /* Forces the dashes to move along the path */
     }
   </style>
   
-  <rect width="100%" height="100%" fill="#0D1117" rx="10" />
-  
-  <path class="blob" d="M425,20 C500,10 540,80 510,140 C480,200 390,220 330,170 C270,120 310,40 425,20 Z" fill="#1C2E4A" opacity="0.9"/>
+  <rect width="100%" height="100%" class="bg" rx="10" />
 
-  <text x="425" y="110" class="name" text-anchor="middle">Aryan Rahate</text>
-  <text x="425" y="155" class="sub" text-anchor="middle">BCA • Coding • Logic</text>
+  <path class="trace" d="M 0 50 L 200 50 L 250 100 L 320 100" />
+  <path class="trace" d="M 850 150 L 700 150 L 650 100 L 530 100" />
+  <path class="trace" d="M 150 210 L 150 160 L 200 110 L 320 110" />
+  <path class="trace" d="M 750 0 L 750 60 L 690 120 L 530 120" />
+
+  <path class="data-pulse d1" d="M 0 50 L 200 50 L 250 100 L 320 100" />
+  <path class="data-pulse d2" d="M 850 150 L 700 150 L 650 100 L 530 100" />
+  <path class="data-pulse d3" d="M 150 210 L 150 160 L 200 110 L 320 110" />
+  <path class="data-pulse d4" d="M 750 0 L 750 60 L 690 120 L 530 120" />
+
+  <rect x="250" y="50" width="350" height="110" fill="#07090F" opacity="0.9" rx="10"/>
+
+  <text x="425" y="115" class="glow" text-anchor="middle">Aryan Rahate</text>
+  <text x="425" y="115" class="name" text-anchor="middle">Aryan Rahate</text>
+  <text x="425" y="150" class="sub" text-anchor="middle">&lt; CODE / DEVELOP / PLAY &gt;</text>
 </svg>

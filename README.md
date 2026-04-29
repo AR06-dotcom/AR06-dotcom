@@ -3,7 +3,7 @@
 # Hi there, I'm Aryan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=323330&vCenter=true&width=500&lines=BCA+Student+at+MIT-WPU;Aspiring+Developer;Valorant+Clutch+Master;Badminton+Player+%26+Cook" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&vCenter=true&width=500&lines=BCA+Student+at+MIT-WPU;Aspiring+Developer;Valorant+Clutch+Master;Badminton+Player+%26+Cook" alt="Typing SVG" />
 </a>
 
 Welcome to my GitHub profile! I'm a passionate learner and aspiring developer currently focused on building a strong foundation in computer science and web technologies. 

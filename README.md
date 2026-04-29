@@ -1,10 +1,8 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="header.svg" alt="Aryan Rahate Header Banner">
+</div>
 
-# Hi there, I'm Aryan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&vCenter=true&width=500&lines=BCA+Student+at+MIT-WPU;Aspiring+Developer;Valorant+Clutch+Master;Badminton+Player+%26+Cook" alt="Typing SVG" />
-</a>
+<br/>
 
 Welcome to my GitHub profile! I'm a passionate learner and aspiring developer currently focused on building a strong foundation in computer science and web technologies. 
 

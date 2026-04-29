@@ -1,5 +1,9 @@
 <div align="center">
   <img src="header.svg" alt="Aryan Rahate Header Banner">
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&vCenter=true&width=500&lines=BCA+Student+at+MIT-WPU;Aspiring+Developer;Valorant+Clutch+Master;Badminton+Player+%26+Cook" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>

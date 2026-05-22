@@ -22,6 +22,27 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer cu
 
 ---
 
+### 🖥️ Hardware & Setup
+
+| Category | Specifications |
+| :--- | :--- |
+| **Primary Machine** | Intel Core Ultra 7 / i7 14th Gen, 32GB RAM |
+| **Graphics** | NVIDIA RTX 5060 (8GB) |
+| **Audio Interface** | Tangzu Wan'er S.G In-Ear Monitors (IEMs) |
+| **Peripherals** | Custom mechanical keyboard setup |
+
+---
+
+### 🎧 Currently Listening To...
+
+<div align="left">
+  <a href="https://open.spotify.com/user/Aryan Rahate">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Widget" />
+  </a>
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 | 🌐 Database Management System | 🎮 Web Development Sandbox |
@@ -42,6 +63,14 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer cu
 
 ---
 
+### 🏰 3D Contribution Graph
+
+<div align="left">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
+</div>
+
+---
+
 ### 📈 Activity & Advanced Metrics
 
 <div align="left">
@@ -50,7 +79,6 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer cu
   </a>
 </div>
 <br/>
-
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AR06-dotcom&theme=dark" alt="Profile Summary Card" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AR06-dotcom&theme=dark" alt="Top Languages Card" width="48%" />

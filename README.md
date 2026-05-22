@@ -16,8 +16,17 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer cu
 
 - 🎓 I'm currently pursuing my **Bachelor of Computer Applications (BCA)** at MIT World Peace University in Pune.
 - 🌱 I’m actively learning and building projects using **C, HTML, CSS, JavaScript, and Database Management Systems**.
+- 🎯 **Currently focusing on:** Mastering backend logic and exploring advanced algorithms.
 - 💼 I recently completed an internship focusing on situational management and communication skills.
 - 🎨 When I'm not coding or debugging, you'll probably find me designing multi-panel comic layouts, generating automotive concept art, or analyzing the latest gaming hardware and benchmarks. 
+
+---
+
+### 🚀 Featured Projects
+
+| 🌐 Database Management System | 🎮 Web Development Sandbox |
+| :---: | :---: |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AR06-dotcom&repo=YOUR_REPO_NAME_1&theme=dark&bg_color=0D1117&hide_border=true)](https://github.com/AR06-dotcom/YOUR_REPO_NAME_1) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AR06-dotcom&repo=YOUR_REPO_NAME_2&theme=dark&bg_color=0D1117&hide_border=true)](https://github.com/AR06-dotcom/YOUR_REPO_NAME_2) |
 
 ---
 
@@ -36,6 +45,13 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer cu
 ### 📈 Activity & Advanced Metrics
 
 <div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AR06-dotcom&theme=radical&row=1&column=6&margin-w=15&no-frame=true" alt="Aryan's Trophies" />
+  </a>
+</div>
+<br/>
+
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AR06-dotcom&theme=dark" alt="Profile Summary Card" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AR06-dotcom&theme=dark" alt="Top Languages Card" width="48%" />
 </div>
@@ -46,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer cu
 
 - **Email:** [rahatearyan06@gmail.com](mailto:rahatearyan06@gmail.com)
 - **LinkedIn:** [Aryan Rahate](https://www.linkedin.com/in/aryan-rahate-2857023b1/)
-- **Instagram:** [@aryanrahate](https://instagram.com/aryanrahate06)
+- **Instagram:** [@Your_IG_Handle](https://instagram.com/Your_IG_Handle)
 
 ⚡ **Fun Fact:** When I'm taking a break from coding, I'm usually hitting the badminton court, grinding ranks in Valorant, or experimenting with new recipes in the kitchen.
 

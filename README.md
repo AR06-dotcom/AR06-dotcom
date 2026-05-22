@@ -2,7 +2,7 @@
   <img src="header.svg" alt="Aryan Rahate Header Banner">
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&vCenter=true&width=500&lines=BCA+Student+at+MIT-WPU;Aspiring+Developer;Valorant+Clutch+Master;Badminton+Player+%26+Cook" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&vCenter=true&width=500&lines=BCA+Student+at+MIT-WPU;Aspiring+Developer;Badminton+Player+%26+Cook" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,7 +46,8 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer cu
 
 - **Email:** [rahatearyan06@gmail.com](mailto:rahatearyan06@gmail.com)
 - **LinkedIn:** [Aryan Rahate](https://www.linkedin.com/in/aryan-rahate-2857023b1/)
-- **Instagram:**@aryanrahate06
+- **Instagram:** [@aryanrahate](https://instagram.com/aryanrahate06)
+
 ⚡ **Fun Fact:** When I'm taking a break from coding, I'm usually hitting the badminton court, grinding ranks in Valorant, or experimenting with new recipes in the kitchen.
 
 ---
